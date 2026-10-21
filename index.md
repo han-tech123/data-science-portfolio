@@ -19,6 +19,8 @@ Gentoo penguins have the highest average measured body mass in this sample (**5,
 
 ![Scatter plot of bill length versus body mass for 342 penguins](assets/bill_length_vs_mass.svg)
 
+**Scatter plot color key:** Teal dots represent Adélie, orange dots represent Chinstrap, and purple dots represent Gentoo.
+
 The scatter plot shows individual variation and overlap that a mean alone cannot show. It includes 342 birds with both measurements.
 
 **Project status:** Completed initial descriptive analysis; further analysis of sex, island, and year is planned.
